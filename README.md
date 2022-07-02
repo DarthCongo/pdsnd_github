@@ -1,17 +1,22 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Udacity Programming for Data Science
 
-### Date created
-Include the date you created this project and README file.
+![](https://catalyst-au.net/wp-content/uploads/2021/12/top-programing-languages.jpeg)
 
-### Project Title
-Replace the Project Title
+## Project 3: Post work to GITHUB
 
-### Description
-Describe what your project is about and what it does
+This repo contains my work for project 3: Post to GITHUB
 
-### Files used
-Include the files used
+## Description
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+This project is designed to simulate GIT usage while performing a Refactor of the Bikeshare Project.
+The project consists of four steps;
+
+-[x] Step 1: Set up your repository
+
+-[x] Step 2: Improve documentation
+
+-[] Step 3: Additonal changes to documentation
+
+-[] Step 4: Refactor code
+
 
