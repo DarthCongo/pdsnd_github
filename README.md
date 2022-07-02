@@ -15,7 +15,7 @@ The project consists of four steps;
 
 -[x] Step 2: Improve documentation
 
--[] Step 3: Additonal changes to documentation
+-[x] Step 3: Additonal changes to documentation
 
 -[] Step 4: Refactor code
 
