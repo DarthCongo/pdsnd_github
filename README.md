@@ -15,10 +15,18 @@ The project consists of four steps;
 
 -[x] Step 2: Improve documentation
 
--[xx] Step 3: Additonal changes to documentation
+-[x] Step 3: Additonal changes to documentation
 
--[] Step 4: Refactor code
+-[x] Step 4: Refactor code
 
-## Date
+## Tools used 
 
+Thee promary tools used to complete this project are as follows;
 
+-[x] Tool 1: GIT bash   - Used primarily from it's command line interface.
+
+-[x] Tool 2: Notepad ++ - The text editor of choice 
+
+-[x] Tool 3: VB Code    - The primary coding tool used to write and modify the python code 
+
+-[x] Step 4: Glitch     - An online platform that allowed for edits of the README.md file.
