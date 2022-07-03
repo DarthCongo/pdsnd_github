@@ -1,6 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -156,6 +157,9 @@ def user_stats(df, city):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
     
+    # this is where I will add graphs to capture content above
+    
+    
 def display_raw_data(df):
     # Check whether user would like to view raw data.
     print('\nPreparing raw data analysis...\n')
@@ -189,6 +193,7 @@ def main():
         trip_duration_stats(df)
         user_stats(df,city)
         display_raw_data(df)
+        
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
